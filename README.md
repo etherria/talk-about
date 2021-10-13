@@ -18,6 +18,10 @@ nothing
 11. [资料](https://zhuanlan.zhihu.com/p/22094547)
 12. [一个财博朋克类型的](https://en.wikipedia.org/wiki/Habitat_(video_game))
 
+### 地图
+[https://store.steampowered.com/app/616920/BatMUD/](https://store.steampowered.com/app/616920/BatMUD/)
+地图可以参考上面链接里的，采用大+小的形式来展示，大地图用ascii码，小地图用图片
+
 ## 关于世界和机制的一些想法
 1. 由于区块链的共识性质，所以无法实时游戏，可以类似5s刷新一次世界动态的形式展示当前世界状态或者范围内用户的位置等。类似雷达图，每隔5s（出块时间）刷新下最新状态
 2. 关于token和消耗机制：比如每天（24h）可以获取一定数量的token来执行行为（类似消耗gas，也类似现在手游中的行动点），当行为点（免费token）消耗完之后，只能通过重新充值token来增加行动点，但是增加的比例会越来越少（或者不变，可以作为一种机制）
