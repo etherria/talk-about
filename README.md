@@ -8,6 +8,15 @@ nothing
 1. 今天看了一些关于文字游戏的文章，感觉在原始的原宇宙时期，可以使用这种落后的形势来进行交互，一是成本简单，二是怀旧
 2. 相对于图片的nft形式，mud的文字更贴近于nft的数据本质
 3. 参考[batmud](https://www.bat.org/play/creation)
+4. 还有像roguelike一样的，死了重来的hardcore版本。当然hardcore版本的奖励会更加丰富。
+5. 组团交互等需要考虑实现方式
+6. [论坛](https://trow.cc/board/index.php?showforum=122)
+7. [知乎上的图文结合](https://trow.cc/board/index.php?showforum=122)
+8. 关于客户端，好像有文字和带图的两种形式
+9. 鉴于区块链的机制，所以还是回合制的形式
+10. Graphical泥巴 相当于添加了图片的mud，比如可以将带有图片的nft作为图中的元素
+11. [资料](https://zhuanlan.zhihu.com/p/22094547)
+12. [一个财博朋克类型的](https://en.wikipedia.org/wiki/Habitat_(video_game))
 
 ## 关于世界和机制的一些想法
 1. 由于区块链的共识性质，所以无法实时游戏，可以类似5s刷新一次世界动态的形式展示当前世界状态或者范围内用户的位置等。类似雷达图，每隔5s（出块时间）刷新下最新状态
